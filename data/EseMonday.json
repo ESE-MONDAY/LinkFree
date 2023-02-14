@@ -13,7 +13,7 @@
    "socials": [
     { "icon": "FaTwitter", "url": "https://twitter.com/esemonday1" },
     { "icon": "FaGithub", "url": "https://github.com/ESE-MONDAY" },
-    { "icon": "FaLinkedIn", "url": "https://www.linkedin.com/in/ese-monday/" }
+    { "icon": "FaLinkedin", "url": "https://www.linkedin.com/in/ese-monday/" }
   ],
   "links": [
     {
@@ -25,7 +25,7 @@
     {
       "name": "LinkedIn: Follow me",
       "url": "https://www.linkedin.com/in/ese-monday",
-      "icon": "FaLinkedIn",
+      "icon": "FaLinkedin",
       "color": "#00ACEE"
     }
    
