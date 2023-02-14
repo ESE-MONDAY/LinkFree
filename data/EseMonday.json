@@ -1,0 +1,33 @@
+{
+"name": "Ese Monday",
+  "type": "personal",
+  "bio": "Open Source DevRel | Founder of **EddieHub** | **GitHub** Star",
+    
+  "tags": [
+    "Open Source",
+    "Javascript",
+    "Typescript",
+    "NextJS",
+    "DevRel"
+  ],
+   "socials": [
+    { "icon": "FaTwitter", "url": "https://twitter.com/esemonday1" },
+    { "icon": "FaGithub", "url": "https://github.com/ESE-MONDAY" },
+    { "icon": "FaLinkedIn", "url": "https://www.linkedin.com/in/ese-monday/" }
+  ],
+  "links": [
+    {
+     "name": "Twitter: Follow me",
+      "url": "https://twitter.com/esemonday1",
+      "icon": "FaTwitter",
+      "color": "#00ACEE"  
+    },
+    {
+      "name": "LinkedIn: Follow me",
+      "url": "https://www.linkedin.com/in/ese-monday",
+      "icon": "FaLinkedIn",
+      "color": "#00ACEE"
+    }
+   
+  ]
+}
